@@ -17,7 +17,7 @@
 - suicide_by_age_and_generation.ipynb
 - suicide_by_age_and_generation.html
 
-### Machine Learning:
+### Data Modeling:
 - linear_regression.ipynb
 - linear_regression.html
 - PolynomialRegression.ipynb
