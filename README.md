@@ -4,7 +4,7 @@
 Data:
 data.csv
 master.csv
-(The original data that was downloaded from Kaggle was data.csv. After precessing our data, we created the master.csv, which is the data we used to fit the various models.)
+(The original data that was downloaded from Kaggle was data.csv. After processing our data, we created the master.csv, which is the data we used to fit the various models.)
 
 Preprocessing data:
 Preprocession.ipynb
