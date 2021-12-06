@@ -18,9 +18,10 @@ suicide_by_age_and_generation.ipynb
 suicide_by_age_and_generation.html
 
 Machine Learning:
-linear_regression.ipynb
-linear_regression.html
-PolynomialRegression.ipynb
-PolynomialRegression.html
-ensemble_regression.ipynb 
-- includes code for GBR Tree and Random Forest
+- linear_regression.ipynb
+- linear_regression.html
+- PolynomialRegression.ipynb
+- PolynomialRegression.html
+- ensemble_regression.ipynb 
+- ensemble_regression.html
+
