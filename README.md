@@ -16,6 +16,8 @@ suicide_by_age_group.ipynb
 suicide_by_age_group.html
 suicide_by_GDP.ipynb 
 suicide_by_GDP.html
+suicide_by_age_and_generation.ipynb
+suicide_by_age_and_generation.html
 
 Machine Learning:
 linear_regression.ipynb
