@@ -12,8 +12,6 @@ Preprocession.ipynb
 EDA:
 suicide_by_gender.ipynb 
 suicide_by_gender.html
-suicide_by_age_group.ipynb 
-suicide_by_age_group.html
 suicide_by_GDP.ipynb 
 suicide_by_GDP.html
 suicide_by_age_and_generation.ipynb
