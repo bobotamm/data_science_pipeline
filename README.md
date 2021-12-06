@@ -22,5 +22,5 @@ linear_regression.ipynb
 linear_regression.html
 PolynomialRegression.ipynb
 PolynomialRegression.html
-final_report_ml.ipynb 
-- includes code for GBR Tree, Support Vector Machine, KNN, Random Forest
+ensemble_regression.ipynb 
+- includes code for GBR Tree and Random Forest
