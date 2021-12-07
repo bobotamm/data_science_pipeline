@@ -4,6 +4,7 @@
 ### Data:
 - data.csv
 - master.csv
+- processed_master.csv (same data as master.csv but different name)
 (The original data that was downloaded from Kaggle was data.csv. After processing our data, we created the master.csv, which is the data we used to fit the various models.)
 
 ### Preprocessing data:
