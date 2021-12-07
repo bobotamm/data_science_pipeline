@@ -13,6 +13,7 @@
 ### EDA:
 - suicide_by_gender.ipynb 
 - suicide_by_gender.html
+(boxplot and QQ plot of suicide by gender. Scatter plot of suicide by year, female suicide by year, and male suicide by year)
 - suicide_by_GDP.ipynb 
 - suicide_by_GDP.html
 - suicide_by_age_and_generation.ipynb
@@ -21,6 +22,7 @@
 ### Data Modeling:
 - linear_regression.ipynb
 - linear_regression.html
+(fitting linear regression model with processed data)
 - PolynomialRegression.ipynb
 - PolynomialRegression.html
 - ensemble_regression.ipynb 
