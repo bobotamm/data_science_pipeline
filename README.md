@@ -28,5 +28,5 @@
 - PolynomialRegression.html
 - ensemble_regression.ipynb 
 - ensemble_regression.html
-( fitting Gradient Boosting Regression and Random Forest)
+(fitting Gradient Boosting Regression and Random Forest)
 
