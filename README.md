@@ -16,9 +16,9 @@
 (boxplot and QQ plot of suicide by gender. Scatter plot of suicide by year, female suicide by year, and male suicide by year)
 - suicide_by_GDP.ipynb 
 - suicide_by_GDP.html
+(scatterplot between GDP per capita and suicide number/100k population, top 10 countries with highest mean suicide rate, line chart for GDP per capita and suicide rate over time, regression plot between GDP per capita and suicide rate in top 10 countries)
 - suicide_by_age_and_generation.ipynb
 - suicide_by_age_and_generation.html
-(Subplots of Scatterplots for Age and Generation)
 
 ### Data Modeling:
 - linear_regression.ipynb
@@ -26,7 +26,6 @@
 (fitting linear regression model with processed data)
 - PolynomialRegression.ipynb
 - PolynomialRegression.html
-(fitting polynomial regression model using linear regressor and SGD regressor with processed data)
 - ensemble_regression.ipynb 
 - ensemble_regression.html
 
